@@ -16,12 +16,15 @@ This repo contains my personal solutions to various LeetCode problems, all imple
 2. Navigate to the directory:
    ```bash
    cd LeetCode
+   cd Questions
 3. Open the respective problem folder to view the PDF explanation and the solution code. 
 
 ## Directory Structure
 
 ```bash
   LeetCode/
+│
+  Questions/
 │
 ├── Problem_1_name/
 │   ├── Problem_1_name.pdf      # Explanation for Problem 1
