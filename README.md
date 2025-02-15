@@ -28,15 +28,18 @@ This repo contains my personal solutions to various LeetCode problems, all imple
 │
 ├── Problem_1_name/
 │   ├── Problem_1_name.pdf      # Explanation for Problem 1
-│   └── solution.py          # Solution for Problem 1
+│   └── solution.py          # Python Solution for Problem 1
+│   └── solution.java         # Java Solution for Problem 1
 │
 ├── Problem_2_name/
 │   ├── Problem_2_name.pdf      # Explanation for Problem 2
-│   └── solution.py          # Solution for Problem 2
+│   └── solution.py          # Python Solution for Problem 2
+│   └── solution.java         # Java Solution for Problem 2
 │
 └── Problem_3_name/
     ├── Problem_3_name.pdf      # Explanation for Problem 3
-    └── solution.py          # Solution for Problem 3
+    └── solution.py          # Python Solution for Problem 3
+    └── solution.java          # Java Solution for Problem 3
 
 ```
 ## Contributing
