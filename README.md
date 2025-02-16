@@ -1,7 +1,7 @@
 # LeetCode
 
 Welcome to my LeetCode solutions repository!
-This repo contains my personal solutions to various LeetCode problems, all implemented in Python. Each solution is accompanied by a detailed explanation to help you understand the thought process and approach takenIn this repository, you will find solutions to a variety of LeetCode problems ranging from easy to hard. The primary goal is to enhance my problem-solving skills and algorithmic knowledge while also providing clear explanations for each solution.
+This repo contains solutions to various LeetCode problems, all implemented in Python (Now available in Java as well). Each solution is accompanied by a detailed explanation to help you understand the thought process and approach takenIn this repository, you will find solutions to a variety of LeetCode problems ranging from easy to hard. The primary goal is to enhance our problem-solving skills and algorithmic knowledge while also providing clear explanations for each solution.
 
 ### Features
 
